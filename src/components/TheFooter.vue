@@ -1,9 +1,9 @@
 <template>
 <div class="bg-gray-800 border border-gray-800">
-    <div class="px-4 py-8 mx-auto md:flex max-w-7xl">
-        <div class="w-full md:flex">
+    <div class="px-4 py-8 mx-auto md:flex sm:max-w-7xl">
+        <div class="mx-auto sm:max-w-full max-w-fit sm: sm:w-full sm:flex">
             
-            <div class="w-2/3">
+            <div class="w-full sm:w-2/3">
                 <div class="flex flex-col text-blue-100">
                     <h2 class="mb-2 text-lg font-semibold underline underline-offset-2">Dannemüller IT</h2>
                     <span>Andreas-Hofer-Str. 25</span>
@@ -13,13 +13,13 @@
                 </div>
             </div>
 
-            <div class="w-1/3 text-blue-100 md:text-right">
+            <div class="w-full mt-6 text-blue-100 sm:mt-0 sm:w-1/3 sm:text-right">
                 <h2 class="mb-2 space-y-2 text-lg font-semibold underline underline-offset-2">Links</h2>                
                 <div class=""><a href="">Leistungen</a></div>       
                 <div class=""><a href="">Impressum</a></div>              
                 <div><a href="">AGB</a></div>
                 <div>
-                 <a class="text-gray-400 " href=""> <span class="text-lg">&uarr;</span>  <span class="text-sm">Nach oben</span></a>
+                 <a class="text-gray-400 " href=""> <span class="text-lg">&uarr;</span>  <span class="text-sm">nach oben</span></a>
                 </div>                
             </div>
         </div>

@@ -1,7 +1,7 @@
 <template>
-        <div class="flex flex-col-reverse items-center max-w-5xl px-4 pb-20 mx-auto text-blue-50 md:flex md:flex-row">
+        <div class="flex flex-col-reverse items-center max-w-5xl px-4 pb-20 mx-auto mt-10 text-blue-50 md:flex md:flex-row">
         <div>
-          <h1 class="text-3xl tracking-wider text-lime-400">IT-Lösungen in Tirol</h1>
+          <h1 class="mt-10 text-3xl tracking-wider text-lime-400 xl:mt-0">IT-Lösungen in Tirol</h1>
           <h2 class="text-lg tracking-wide text-lime-200">Persönlich. Verlässlich. Fairplay.</h2>
           <p class="py-4 text-yellow-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exfdsfsfcepturi, voluptatem sit molestias 
             sed deserunt fugit. Sapiente, tempora. Nesciunt, non architecto.</p>
