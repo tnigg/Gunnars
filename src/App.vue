@@ -3,7 +3,7 @@ import TheHeader from "./components/TheHeader.vue";
 import ContactBar from "./components/ContactBar.vue";
 import Services from "./components/Services.vue";
 import HeroPage from "./components/HeroPage.vue";
-import ContactMin from "./components/ContactMin.vue";
+import TheFooter from "./components/TheFooter.vue";
 </script>
 
 <template>  
@@ -22,11 +22,11 @@ import ContactMin from "./components/ContactMin.vue";
      <!-- </div>  END TRANSPARENT ???????? BACKGROUND -->
 
    <div class="pt-36">
-     <Services class="pt-14 " />
+     <Services class="pt-10 " />
    </div>
 
    <div>
-     <ContactMin />
+     <TheFooter class="mt-16"/>
    </div>
 </div>    
 </template>
